@@ -1,0 +1,7 @@
+Hello WORLD This is a mail sent with python when i was learning to make a network
+
+This is a mail sent with python
+
+I was learning to make a network
+
+#the message
